@@ -1,4 +1,8 @@
-# ui-clone
+# ui clone
+
+いろんなサービスのUIを再現する。 
+## The New York Times 
+
 
 ## Project setup
 ```
