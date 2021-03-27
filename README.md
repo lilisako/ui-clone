@@ -1,4 +1,4 @@
-# nyt-ui-clone
+# ui-clone
 
 ## Project setup
 ```
