@@ -1,5 +1,5 @@
 <template>
-  <div class=" mx-10">
+  <div class="mx-10">
   <!-- header -->
   <header class="border-b-2 pb-2">
     <div class="h-18 w-full flex p-1 justify-between">
